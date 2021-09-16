@@ -15,6 +15,8 @@ git clone https://github.com/andrYushka1git/seclab_task1.git
 
 cd seclab_task1
 
+chmod +x app.py
+
 ./app.py
 
 description:
